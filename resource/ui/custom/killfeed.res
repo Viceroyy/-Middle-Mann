@@ -24,10 +24,10 @@
 		"PurpleText"	"134 80 172 255" //monoculus
 		"GreenText"		"112 176 74 255" //mersasmus
 		"IconColor"		"HudWhite"
-		"LocalPlayerColor"	"HUDBlack"
+		"LocalPlayerColor"	"HudWhite"
 
 		"BaseBackgroundColor"	"46 43 42 220"
-		"LocalBackgroundColor"	"245 229 196 200"
+		"LocalBackgroundColor"	"20 20 20 200"
 		"KillStreakBackgroundColor" "46 43 42 255"
 	}
 }

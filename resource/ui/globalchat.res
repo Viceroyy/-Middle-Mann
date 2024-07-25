@@ -6,7 +6,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"1"
-		"ypos"					"-50"
+		"ypos"					"10"
 		"zpos"					"1001"
 		"wide"					"167"
 		"tall"					"200"
@@ -85,7 +85,7 @@
 	{
 		// "ControlName"	"TextEntry"
 		"fieldName"		"chatentry"
-		"xpos"					"2"
+		"xpos"					"6"
 		"ypos"					"rs1+19"
 		"zpos"			"1"
 		"wide"			"165"
